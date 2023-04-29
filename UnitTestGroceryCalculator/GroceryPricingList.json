@@ -1,0 +1,38 @@
+[
+  {
+    "ProductName": "A",
+    "Unit": 1,
+    "Price": 1.25
+
+  },
+  {
+    "ProductName": "A",
+    "Unit": 3,
+    "Price": 3
+
+  },
+  {
+    "ProductName": "B",
+    "Unit": 1,
+    "Price": 4.25
+
+  },
+  {
+    "ProductName": "C",
+    "Unit": 1,
+    "Price": 1
+
+  },
+  {
+    "ProductName": "C",
+    "Unit": 6,
+    "Price": 5
+
+  },
+  {
+    "ProductName": "D",
+    "Unit": 1,
+    "Price": 0.75
+
+  }
+]
